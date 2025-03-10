@@ -19,13 +19,12 @@
    git clone https://github.com/mengsokool/ghost-compose.git
    cd ghost-compose
    ```
-
 2. **รันสคริปต์การติดตั้ง:**
 
    **Bash**
 
    ```
-   sudo ./setup.sh
+   sudo bash ./setup.bash
    ```
 
    สคริปต์จะ:
